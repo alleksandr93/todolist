@@ -34,3 +34,10 @@ body{
     text-shadow: 1px 1px 1px #000000;
     text-align: center;
 }
+.btn{
+    background-color: rgb(234, 247, 247)95, 224, 224);
+    margin: 0 0 0 10px;
+}
+.btn:active{
+    background-color: rgb(249, 249, 39);
+}
